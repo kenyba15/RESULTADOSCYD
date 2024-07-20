@@ -26,3 +26,23 @@ Conexión a la Base de Datos: Establece una conexión con la base de datos utili
 Ejecución de la Consulta: Prepara y ejecuta la consulta SQL.
 Recuperación de Resultados: Itera sobre los resultados y crea instancias de ConstructorMaxPoint con los datos recuperados.
 Manejo de Excepciones: Captura y maneja cualquier excepción de SQL.
+
+### MaxPointTableView
+Obtener Datos: Se obtienen los datos de los pilotos desde la base de datos.
+Crear Tabla: Se crea una tabla (TableView) y se agregan columnas para el nombre del piloto y los puntos.
+Mostrar Ventana: Se configura y muestra una ventana con la tabla de pilotos.
+Obtener Datos: Se obtienen los datos de los constructores desde la base de datos.
+Crear Tabla: Se crea una tabla (TableView) y se agregan columnas para el nombre del constructor y los puntos.
+Mostrar Ventana: Se configura y muestra una ventana con la tabla de constructores.
+
+## CODIGO
+![image](https://github.com/user-attachments/assets/dfafda1d-3c37-437d-8f30-9970334fba27)
+![image](https://github.com/user-attachments/assets/5100eabb-6b3a-4d0e-8cb5-e9ddef857972)
+![image](https://github.com/user-attachments/assets/95ae5e88-2605-4684-b7ca-d2cef24aa847)
+![image](https://github.com/user-attachments/assets/4a168cc8-795d-48f5-9a35-7e4b9caf170b)
+![image](https://github.com/user-attachments/assets/616eb0ee-bfa5-4f58-b8ef-7e638276a1eb)
+![image](https://github.com/user-attachments/assets/52a991a1-c5b9-4b8b-b9c7-096916913979)
+
+## EJECUCION
+![image](https://github.com/user-attachments/assets/484f20c4-9fb7-4098-a8a7-2e9fbfffa41f)
+![image](https://github.com/user-attachments/assets/3c428772-ed15-40a2-ab5f-6093f7e551a4)
